@@ -1,0 +1,17 @@
+[{
+    "name": "BIKE",
+    "id": 1,
+    "image": "https://images.vexels.com/media/users/3/153176/isolated/preview/123d39620b7b081496ff030c7d3b1266-hand-drawn-classic-motorcycle-by-vexels.png"
+  }, {
+    "name": "CAR",
+    "id": 2,
+    "image": "https://i.pinimg.com/originals/9f/46/d2/9f46d2c3416574635ac03f680d103487.png"
+  }, {
+    "name": "BUS",
+    "id": 3,
+    "image": "https://images.vexels.com/media/users/3/137954/isolated/preview/058b850f1d2e8aba2c1eb18799fb666f-bus-transport-icon-by-vexels.png"
+  }, {
+    "name": "TRAIN",
+    "id": 4,
+    "image": "https://webstockreview.net/images/clipart-airplane-arrival-5.png"
+  }]

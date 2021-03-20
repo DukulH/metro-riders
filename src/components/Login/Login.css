@@ -1,0 +1,51 @@
+.formStyle{
+    border: 2px solid lightgray;
+    border-radius: 5px;
+    width: 50%;
+    margin: auto;
+    margin-top: 100px;
+
+    
+}
+.formStyle input{
+    border: none;
+    border-bottom: 1px solid lightgray;   
+}
+.forgotPass{
+    margin-left: 130px;
+    color: #FF6E40;
+}
+.loginBtn{
+   
+    
+}
+.design{
+        width: 40%; 
+        border-bottom: 1px solid lightgray; 
+        line-height: 0.1em;
+        margin: auto;
+}
+     
+.design span { 
+    background:#fff; 
+    padding:0 10px; 
+}
+.otherSignInMethod{
+    width: 40%;
+    border-radius: 25px;
+    display: flex;  
+    align-items: center;
+    justify-content: center;
+    position:relative;
+    top:30%; 
+    left:30%;
+  }
+  .icon{
+    margin-right: auto;
+    font-size:30px;
+    color: brown;
+  }
+  
+  .otherSignInMethod span{
+    margin-right: auto;
+  }

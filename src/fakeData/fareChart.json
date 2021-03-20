@@ -1,0 +1,88 @@
+[{
+    "name": "BIKE",
+    "id": 1,
+    "value": 1.1,
+    "passenger": 2,
+    "fare": 25
+  },
+  {
+    "name": "BIKE",
+    "id": 1,
+    "value": 1.2,
+    "passenger": 3,
+    "fare": 50
+  },
+  {
+    "name": "BIKE",
+    "id": 1,
+    "value": 1.3,
+    "passenger": 4,
+    "fare": 75
+  },
+
+  {
+    "name": "CAR",
+    "id": 2,
+    "value": 2.1,
+    "passenger": 2,
+    "fare": 78
+  },
+  {
+    "name": "CAR",
+    "id": 2,
+    "value": 2.2,
+    "passenger": 3,
+    "fare": 102
+  },
+  {
+    "name": "CAR",
+    "id": 2,
+    "value": 2.3,
+    "passenger": 4,
+    "fare": 188
+  },
+
+  {
+    "name": "BUS",
+    "id": 3,
+    "value": 3.1,
+    "passenger": 2,
+    "fare": 15
+  },
+  {
+    "name": "BUS",
+    "id": 3,
+    "value": 3.2,
+    "passenger": 3,
+    "fare": 35
+  },
+  {
+    "name": "BUS",
+    "id": 3,
+    "value": 3.3,
+    "passenger": 4,
+    "fare": 55
+  },
+
+  {
+    "name": "TRAIN",
+    "id": 4,
+    "value": 4.1,
+    "passenger": 2,
+    "fare": 100
+  },
+  {
+    "name": "TRAIN",
+    "id": 4,
+    "value": 4.2,
+    "passenger": 3,
+    "fare": 220
+  },
+  {
+    "name": "TRAIN",
+    "id": 4,
+    "value": 4.3,
+    "passenger": 4,
+    "fare": 280
+  }
+]

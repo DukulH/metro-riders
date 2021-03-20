@@ -1,0 +1,26 @@
+.searchArea {
+    display: flex;
+    align-items:flex-start;
+  align-content:flex-start;
+}
+.left-item{
+  background-color: #EFEFEF;
+  border: 2px solid red;
+  border-radius: 10px;
+  width: 35%;
+  
+}
+.right-item{
+  width: 65%;
+}
+
+@media (max-width: 500px) {
+  .searchArea {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .left-item, .right-item {
+    width: 100%;
+  }
+}
