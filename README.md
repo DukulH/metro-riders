@@ -24,4 +24,4 @@ You are done! Now you can start editing the React project in the new folder that
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-#### Live-Preview: https://sport-leagues.netlify.app/
+#### Live-Preview: https://metro-riders.web.app/
