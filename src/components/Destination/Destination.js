@@ -19,7 +19,7 @@ const Destination = () => {
   useEffect(() => {
     const vehicle = data.filter((element) => element.id === parseInt(id));
     setSelectedVehicle(vehicle);
-  }, []);
+  }, [id]);
   const [location, setLocation] = useState({
     isSet: false,
     from: "",

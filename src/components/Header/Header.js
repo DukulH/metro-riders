@@ -27,7 +27,7 @@ const Header = () => {
             >
               <span className="navbar-toggler-icon"></span>
             </button>
-              <div style={show?{display:"block"}:{display:'none'}} className={"collapse navbar-collapse"}>
+              <div style={show?{display:"block"}:{display:'none'}} className={"collapse navbar-collapse justify-content-end"}>
               <ul className="navbar-nav">
                 <li className="nav-item">
                   <Link className="nav-link text-dark mx-4 fw-bold" to="/home">
