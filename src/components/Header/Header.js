@@ -4,7 +4,7 @@ import { userContext } from "../../App";
 import "./Header.css";
 
 const Header = () => {
-  const [loggedInUser, setLoggedInUser] = useContext(userContext);
+  const [loggedInUser] = useContext(userContext);
   const [show, setShow]=useState(false);
   const {name , displayName} = loggedInUser;
   return (
