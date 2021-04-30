@@ -21,6 +21,9 @@ $ npm start
 ```
 You are done! Now you can start editing the React project in the new folder that's created.
 
+## Front-End:
+React JS, Bootstrap, React Router Dom, Firebase, Map
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
